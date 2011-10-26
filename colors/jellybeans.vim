@@ -37,7 +37,7 @@
 " OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 " THE SOFTWARE.
 
-set background=dark
+" set background=dark
 
 hi clear
 
@@ -288,7 +288,7 @@ endfun
 " }}}
 
 call s:X("Normal","e8e8d3","151515","","White","")
-set background=dark
+" set background=dark
 
 if version >= 700
   call s:X("CursorLine","","1c1c1c","","","Black")
