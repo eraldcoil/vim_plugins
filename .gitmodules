@@ -25,3 +25,6 @@
 [submodule "bundle/fuzzyfinder"]
 	path = bundle/fuzzyfinder
 	url = git://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/pythoncomplete"]
+	path = bundle/pythoncomplete
+	url = git://github.com/mjbrownie/pythoncomplete.vim.git
