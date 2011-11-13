@@ -28,3 +28,6 @@
 [submodule "bundle/pythoncomplete"]
 	path = bundle/pythoncomplete
 	url = git://github.com/mjbrownie/pythoncomplete.vim.git
+[submodule "bundle/L9library"]
+	path = bundle/L9library
+	url = git://github.com/vim-scripts/L9.git
